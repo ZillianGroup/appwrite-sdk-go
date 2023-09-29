@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/illacloud/appwrite-sdk-go/appwrite"
+	"github.com/zilliangroup/appwrite-sdk-go/appwrite"
 )
 
 const (
